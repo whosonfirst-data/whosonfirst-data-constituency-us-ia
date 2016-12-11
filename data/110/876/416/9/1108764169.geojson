@@ -9,7 +9,7 @@
     "geom:bbox":"-92.08158,42.64397,-90.89695,43.501013",
     "geom:latitude":43.077765,
     "geom:longitude":-91.524527,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":5891558667.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 28",
     "uscensus:sldust":"028",
     "uscensus:statefp":"19",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486471,
     "wof:geomhash":"f0f1d2c4a98fb0dbd3bb0455b3f618ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688713
+        }
+    ],
     "wof:id":1108764169,
     "wof:lastmodified":1481486471,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688713,
     "wof:repo":"whosonfirst-data-constituency-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],

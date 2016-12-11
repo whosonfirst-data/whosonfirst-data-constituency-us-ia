@@ -9,7 +9,7 @@
     "geom:bbox":"-91.60905,42.03365,-91.13006,42.645844",
     "geom:latitude":42.401539,
     "geom:longitude":-91.335927,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1971497638.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 96",
     "uscensus:sldlst":"096",
     "uscensus:statefp":"19",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486454,
     "wof:geomhash":"5e5e56db2ae89a8ef167ae0e66bb1dca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688713
+        }
+    ],
     "wof:id":1108764097,
     "wof:lastmodified":1481486454,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688713,
     "wof:repo":"whosonfirst-data-constituency-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],

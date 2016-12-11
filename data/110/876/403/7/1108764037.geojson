@@ -9,7 +9,7 @@
     "geom:bbox":"-91.83329,41.860726,-91.58321,41.9831",
     "geom:latitude":41.90958,
     "geom:longitude":-91.714848,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":202526207.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 69",
     "uscensus:sldlst":"069",
     "uscensus:statefp":"19",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486447,
     "wof:geomhash":"c1a204282d99052acc0fae792d8c5ddf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688713
+        }
+    ],
     "wof:id":1108764037,
     "wof:lastmodified":1481486447,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688713,
     "wof:repo":"whosonfirst-data-constituency-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],

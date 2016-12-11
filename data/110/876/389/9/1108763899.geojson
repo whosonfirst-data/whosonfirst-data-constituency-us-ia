@@ -9,7 +9,7 @@
     "geom:bbox":"-94.443146,42.55731,-93.497507,43.342357",
     "geom:latitude":42.964992,
     "geom:longitude":-93.873023,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":4363205342.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 8",
     "uscensus:sldlst":"008",
     "uscensus:statefp":"19",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486429,
     "wof:geomhash":"a8811c8a03673f5f425151e8d89f6f20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688713
+        }
+    ],
     "wof:id":1108763899,
     "wof:lastmodified":1481486429,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688713,
     "wof:repo":"whosonfirst-data-constituency-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],

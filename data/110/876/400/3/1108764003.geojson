@@ -9,7 +9,7 @@
     "geom:bbox":"-93.49959,42.556199,-92.55421,43.255707",
     "geom:latitude":42.828913,
     "geom:longitude":-93.160452,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":3173474909.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 54",
     "uscensus:sldlst":"054",
     "uscensus:statefp":"19",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486443,
     "wof:geomhash":"4417859a337944317dda126718b9583b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688713
+        }
+    ],
     "wof:id":1108764003,
     "wof:lastmodified":1481486443,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688713,
     "wof:repo":"whosonfirst-data-constituency-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],

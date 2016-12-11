@@ -9,7 +9,7 @@
     "geom:bbox":"-91.486004,40.696301,-90.89985,41.59837",
     "geom:latitude":41.177483,
     "geom:longitude":-91.213552,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":2870134524.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 44",
     "uscensus:sldust":"044",
     "uscensus:statefp":"19",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486474,
     "wof:geomhash":"b33333bb3b31f9c97ca769c153d5bad8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688713
+        }
+    ],
     "wof:id":1108764205,
     "wof:lastmodified":1481486474,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688713,
     "wof:repo":"whosonfirst-data-constituency-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],

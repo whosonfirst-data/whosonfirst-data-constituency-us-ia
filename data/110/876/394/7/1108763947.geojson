@@ -9,7 +9,7 @@
     "geom:bbox":"-93.34868,41.507824,-92.76592,41.863105",
     "geom:latitude":41.72163,
     "geom:longitude":-93.074823,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1442850174.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 29",
     "uscensus:sldlst":"029",
     "uscensus:statefp":"19",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486437,
     "wof:geomhash":"b1eab57cc4512e0b76f984204bef0297",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688713
+        }
+    ],
     "wof:id":1108763947,
     "wof:lastmodified":1481486437,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688713,
     "wof:repo":"whosonfirst-data-constituency-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
